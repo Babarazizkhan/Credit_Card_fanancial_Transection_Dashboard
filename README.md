@@ -1,4 +1,4 @@
-🧸 Toy Store KPI Dashboard
+🧸 Credi Card Financial Dasboard
 
 📊 Project Overview
 This interactive Power BI dashboard helps the leadership team of a toy store chain in Mexico monitor key performance metrics using transactional, product, and store location data from January 2022 to September 2023.
